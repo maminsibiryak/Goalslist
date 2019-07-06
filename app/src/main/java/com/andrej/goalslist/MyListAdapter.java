@@ -1,4 +1,4 @@
-package com.andrej.goalslist;
+package com.$username$.goalslist;
 
 import android.content.Context;
 import android.view.LayoutInflater;
