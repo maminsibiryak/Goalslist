@@ -1,4 +1,4 @@
-package com.andrej.goalslist;
+package com.$username$.goalslist;
 
 public class Item {
     private String itemName;
